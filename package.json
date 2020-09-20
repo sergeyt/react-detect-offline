@@ -1,5 +1,5 @@
 {
-  "name": "@sergeyt/react-detect-offline",
+  "name": "react-online-status",
   "version": "0.1.0",
   "description": "Offline and Online components for React",
   "main": "dist/index.js",
